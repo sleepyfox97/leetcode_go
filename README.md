@@ -1,2 +1,2 @@
-# leetcode_go
-leetcode, using GO.
+# leetcode go and C
+leetcode, using GO or C.
